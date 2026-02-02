@@ -43,5 +43,35 @@
     "id": "espnpremium",
     "nombre": "gimnacia la plata vs aldosivi",
     "hora": "15:30"
+  },
+{
+    "id": "espnpremium",
+    "nombre": "tigres vs racing club /argentina",
+    "hora": "17:45:
+   },
+{
+    "id": "tycinternacional",
+    "nombre": "defensa vs estudiantes",
+    "hora": "15:30"
+  },
+{
+    "id": "espnpremium",
+    "nombre": "argentinos jr vs belgrano",
+    "hora": "20:00"
+  },
+{
+    "id": "espn2mx",
+    "nombre": "NBA memphis G vs minensota TIM",
+    "hora": "19:30"
+  },
+{
+    "id": "espn3",
+    "nombre": "NHL chicago vs san jose",
+    "hora": "20:30"
+  },
+{
+    "id": "max04",
+    "nombre": "NBA los angeles CLIPP VS philadelphia",
+    "hora": "22:00"
   }
 ]
