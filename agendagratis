@@ -3,7 +3,7 @@
     "id": "espn5",
     "nombre": "udinece vs roma",
     "imagen": "",
-    "evento_hora": "2026-02-02UT2:45:00Z"
+    "evento_hora": "2026-02-02UT02:45:00Z"
   },
   {
     "id": "espn3mx",
@@ -15,7 +15,7 @@
     "id": "espn2",
     "nombre": "mallorca vs sevilla",
     "imagen": "",
-    "evento_hora": "2026-02-02UT30:0:00Z"
+    "evento_hora": "2026-02-02UT03:0:00Z"
   },
   {
     "id": "espndeportes",
