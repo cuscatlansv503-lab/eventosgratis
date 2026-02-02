@@ -1,248 +1,51 @@
 [
   {
-    "id": "espn",
-    "nombre": "ESPN",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espn2",
-    "nombre": "ESPN 2",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espn3",
-    "nombre": "ESPN 3",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espn4",
-    "nombre": "ESPN 4",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
     "id": "espn5",
-    "nombre": "ESPN 5",
+    "nombre": "udinece vs roma",
     "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espn6",
-    "nombre": "ESPN 6",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espn7",
-    "nombre": "ESPN 7",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "dsports",
-    "nombre": "DSports",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "dsportsplus",
-    "nombre": "DSports Plus",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "foxsports",
-    "nombre": "Fox Sports",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "foxsports2",
-    "nombre": "Fox Sports 2",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "foxsports3",
-    "nombre": "Fox Sports 3",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "tntsports",
-    "nombre": "TNT Sports",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espnpremium",
-    "nombre": "ESPN Premium",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "tycinternacional",
-    "nombre": "TyC Internacional",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "liga1max",
-    "nombre": "Liga 1 Max",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "movistar",
-    "nombre": "Movistar",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "winsportsplus",
-    "nombre": "Win Sports Plus",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "foxsportsmx",
-    "nombre": "Fox Sports MX",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "foxsports2mx",
-    "nombre": "Fox Sports 2 MX",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "foxsports3mx",
-    "nombre": "Fox Sports 3 MX",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "foxsportspremium",
-    "nombre": "Fox Sports Premium",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espnmx",
-    "nombre": "ESPN MX",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espn2mx",
-    "nombre": "ESPN 2 MX",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
+    "evento_hora": "2026-02-02UT20:02:45Z"
   },
   {
     "id": "espn3mx",
-    "nombre": "ESPN 3 MX",
+    "nombre": "udinece vs roma",
     "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
+    "evento_hora": "2026-02-02UT20:02:45Z"
   },
   {
-    "id": "espn4mx",
-    "nombre": "ESPN 4 MX",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "azteca7",
-    "nombre": "Azteca 7",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "canal5",
-    "nombre": "Canal 5",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "tvc_deportes",
-    "nombre": "TVC Deportes",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "azteca_deportes",
-    "nombre": "Azteca Deportes",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "hisports",
-    "nombre": "Hi Sports",
+    "id": "espn2",
+    "nombre": "mallorca vs sevilla",
     "imagen": "",
     "evento_hora": "2026-02-02UT20:03:00Z"
   },
   {
     "id": "espndeportes",
-    "nombre": "ESPN Deportes",
+    "nombre": "mallorca vs sevilla",
     "imagen": "",
     "evento_hora": "2026-02-02UT20:03:00Z"
   },
   {
-    "id": "beinsport_xtra_espanol",
-    "nombre": "beIN Sports Xtra Español",
+    "id": "disney2",
+    "nombre": "mallorca vs sevilla",
     "imagen": "",
     "evento_hora": "2026-02-02UT20:03:00Z"
   },
   {
-    "id": "usanetwork",
-    "nombre": "USA Network",
+    "id": "espn4",
+    "nombre": "sunderland vs burnley",
     "imagen": "",
     "evento_hora": "2026-02-02UT20:03:00Z"
   },
   {
-    "id": "premier1",
-    "nombre": "Premier 1",
+    "id": "disney4",
+    "nombre": "sunderland vs burnley",
     "imagen": "",
     "evento_hora": "2026-02-02UT20:03:00Z"
   },
   {
-    "id": "premier2",
-    "nombre": "Premier 2",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "premier3",
-    "nombre": "Premier 3",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "laligatvbar",
-    "nombre": "LaLiga TV Bar",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espn1_nl",
-    "nombre": "ESPN 1 NL",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espn2_nl",
-    "nombre": "ESPN 2 NL",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
-  },
-  {
-    "id": "espn3_nl",
-    "nombre": "ESPN 3 NL",
+    "id": "liga1max",
+    "nombre": "comerciantes vs maquegua",
     "imagen": "",
     "evento_hora": "2026-02-02UT20:03:00Z"
   }
+  
 ]
