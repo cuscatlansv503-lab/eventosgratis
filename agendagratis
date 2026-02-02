@@ -3,7 +3,7 @@
     "id": "espn",
     "nombre": "ESPN",
     "imagen": "",
-    "hora_universal": "2026-02-02T12:10:00Z"
+    "evento_hora": "2026-02-02T12:10:00Z"
   },
   {
     "id": "espn2",
