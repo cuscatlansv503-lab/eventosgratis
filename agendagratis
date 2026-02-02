@@ -1,77 +1,77 @@
 [
   {
     "id": "espn5",
-    "nombre": "udinece vs roma",
+    "nombre": "Udinese vs Roma",
     "hora": "14:45"
   },
   {
     "id": "espn3mx",
-    "nombre": "udinece vs roma",
+    "nombre": "Udinese vs Roma",
     "hora": "14:45"
   },
   {
     "id": "espn2",
-    "nombre": "mallorca vs sevilla",
+    "nombre": "Mallorca vs Sevilla",
     "hora": "15:00"
   },
   {
     "id": "espndeportes",
-    "nombre": "mallorca vs sevilla",
+    "nombre": "Mallorca vs Sevilla",
     "hora": "15:00"
   },
   {
     "id": "disney2",
-    "nombre": "mallorca vs sevilla",
+    "nombre": "Mallorca vs Sevilla",
     "hora": "15:00"
   },
   {
     "id": "espn4",
-    "nombre": "sunderland vs burnley",
+    "nombre": "Sunderland vs Burnley",
     "hora": "15:00"
   },
   {
     "id": "disney4",
-    "nombre": "sunderland vs burnley",
+    "nombre": "Sunderland vs Burnley",
     "hora": "15:00"
   },
   {
     "id": "liga1max",
-    "nombre": "comerciantes vs maquegua",
+    "nombre": "Comerciantes vs Moquegua",
     "hora": "15:00"
   },
   {
     "id": "espnpremium",
-    "nombre": "gimnacia la plata vs aldosivi",
+    "nombre": "Gimnasia La Plata vs Aldosivi",
     "hora": "15:30"
   },
-{
+  {
     "id": "espnpremium",
-    "nombre": "tigres vs racing club /argentina",
-    "hora": "17:45:
-   },
-{
+    "nombre": "Tigre vs Racing Club / Argentina",
+    "hora": "17:45"
+  },
+  {
     "id": "tycinternacional",
-    "nombre": "defensa vs estudiantes",
+    "nombre": "Defensa vs Estudiantes",
     "hora": "15:30"
   },
-{
+  {
     "id": "espnpremium",
-    "nombre": "argentinos jr vs belgrano",
+    "nombre": "Argentinos Jr vs Belgrano",
     "hora": "20:00"
   },
-{
+  {
     "id": "espn2mx",
-    "nombre": "NBA memphis G vs minensota TIM",
+    "nombre": "NBA Memphis G vs Minnesota TIM",
     "hora": "19:30"
   },
-{
+  {
     "id": "espn3",
-    "nombre": "NHL chicago vs san jose",
+    "nombre": "NHL Chicago vs San Jose",
     "hora": "20:30"
   },
-{
+  {
     "id": "max04",
-    "nombre": "NBA los angeles CLIPP VS philadelphia",
+    "nombre": "NBA Los Angeles Clippers vs Philadelphia",
     "hora": "22:00"
   }
 ]
