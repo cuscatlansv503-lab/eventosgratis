@@ -2,47 +2,46 @@
   {
     "id": "espn5",
     "nombre": "udinece vs roma",
-    "imagen": ""
-    "hora":  "2:45"
-},
+    "hora": "2:45"
+  },
   {
     "id": "espn3mx",
     "nombre": "udinece vs roma",
-    "imagen": ""
+    "hora": "2:45"
   },
   {
     "id": "espn2",
     "nombre": "mallorca vs sevilla",
-    "imagen": ""
+    "hora": "horario pendiente"
   },
   {
     "id": "espndeportes",
     "nombre": "mallorca vs sevilla",
-    "imagen": ""
+    "hora": "horario pendiente"
   },
   {
     "id": "disney2",
     "nombre": "mallorca vs sevilla",
-    "imagen": ""
+    "hora": "horario pendiente"
   },
   {
     "id": "espn4",
     "nombre": "sunderland vs burnley",
-    "imagen": ""
+    "hora": "horario pendiente"
   },
   {
     "id": "disney4",
     "nombre": "sunderland vs burnley",
-    "imagen": ""
+    "hora": "horario pendiente"
   },
   {
     "id": "liga1max",
     "nombre": "comerciantes vs maquegua",
-    "imagen": ""
+    "hora": "horario pendiente"
   },
   {
     "id": "espnpremium",
     "nombre": "gimnacia la plata vs aldosivi",
-    "imagen": ""
+    "hora": "horario pendiente"
   }
 ]
