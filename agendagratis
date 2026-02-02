@@ -2,55 +2,46 @@
   {
     "id": "espn5",
     "nombre": "udinece vs roma",
-    "imagen": "",
-    "hora_del_diario":"14:45:00:,
+    "imagen": ""
   },
   {
     "id": "espn3mx",
     "nombre": "udinece vs roma",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:02:00Z"
+    "imagen": ""
   },
   {
     "id": "espn2",
     "nombre": "mallorca vs sevilla",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
+    "imagen": ""
   },
   {
     "id": "espndeportes",
     "nombre": "mallorca vs sevilla",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
+    "imagen": ""
   },
   {
     "id": "disney2",
     "nombre": "mallorca vs sevilla",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
+    "imagen": ""
   },
   {
     "id": "espn4",
     "nombre": "sunderland vs burnley",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
+    "imagen": ""
   },
   {
     "id": "disney4",
     "nombre": "sunderland vs burnley",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
+    "imagen": ""
   },
   {
     "id": "liga1max",
     "nombre": "comerciantes vs maquegua",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:00Z"
+    "imagen": ""
   },
- {
+  {
     "id": "espnpremium",
     "nombre": "gimnacia la plata vs aldosivi",
-    "imagen": "",
-    "evento_hora": "2026-02-02UT20:03:Z"
-  } 
+    "imagen": ""
+  }
 ]
