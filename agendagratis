@@ -1,77 +1,28 @@
 [
   {
-    "id": "espn5",
-    "nombre": "Udinese vs Roma",
-    "hora": "14:45"
-  },
-  {
-    "id": "espn3mx",
-    "nombre": "Udinese vs Roma",
-    "hora": "14:45"
-  },
-  {
     "id": "espn2",
-    "nombre": "Mallorca vs Sevilla",
+    "nombre": "bologna vs milan",
+    "hora": "14:45"
+  },
+  {
+    "id": "espn",
+    "nombre": "arsenal vs chelsea",
     "hora": "15:00"
   },
   {
-    "id": "espndeportes",
-    "nombre": "Mallorca vs Sevilla",
+    "id": "movistar",
+    "nombre": "barcelona vs albacete",
     "hora": "15:00"
   },
   {
-    "id": "disney2",
-    "nombre": "Mallorca vs Sevilla",
+    "id": "espnplus1",
+    "nombre": "barcelona vs albacete",
     "hora": "15:00"
   },
   {
-    "id": "espn4",
-    "nombre": "Sunderland vs Burnley",
+    "id": "americatv",
+    "nombre": "barcelona vs albacete",
     "hora": "15:00"
-  },
-  {
-    "id": "disney4",
-    "nombre": "Sunderland vs Burnley",
-    "hora": "15:00"
-  },
-  {
-    "id": "liga1max",
-    "nombre": "Comerciantes vs Moquegua",
-    "hora": "15:00"
-  },
-  {
-    "id": "espnpremium",
-    "nombre": "Gimnasia La Plata vs Aldosivi",
-    "hora": "15:30"
-  },
-  {
-    "id": "espnpremium",
-    "nombre": "Tigre vs Racing Club / Argentina",
-    "hora": "17:45"
-  },
-  {
-    "id": "tycinternacional",
-    "nombre": "Defensa vs Estudiantes",
-    "hora": "15:30"
-  },
-  {
-    "id": "espnpremium",
-    "nombre": "Argentinos Jr vs Belgrano",
-    "hora": "20:00"
-  },
-  {
-    "id": "espn2mx",
-    "nombre": "NBA Memphis G vs Minnesota TIM",
-    "hora": "19:30"
-  },
-  {
-    "id": "espn3",
-    "nombre": "NHL Chicago vs San Jose",
-    "hora": "20:30"
-  },
-  {
-    "id": "max04",
-    "nombre": "NBA Los Angeles Clippers vs Philadelphia",
-    "hora": "22:00"
   }
+ 
 ]
