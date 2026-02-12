@@ -1,28 +1,19 @@
 [
   {
     "id": "americatv",
-    "nombre": "Reeal betis vs Atletico de madrid",
+    "nombre": "Barcelona vs Atletico de madrid",
     "hora": "15:00"
   },
   {
-    "id": "esp2",
-    "nombre": "copa de la reina Madrid F vs Barcelona F",
+    "id": "movistar",
+    "nombre": "Barcelona vs Atletico de madrid",
     "hora": "15:00"
   },
   {
-    "id": "espn2mx",
-    "nombre": "copade la reina Madrid F vs Barcelona F",
+    "id": "winsportsplus",
+    "nombre": "Barcelona vs Atletico de madrid",
     "hora": "15:00"
   },
-  {
-    "id": "dsports",
-    "nombre": "Atalanta vs Juventus",
-    "hora": "15:00"
-  },
-  {
-    "id": "espn",
-    "nombre": "copa libertadores Juventus vs Universida católica",
-    "hora": "19:30"
-  }
+  
  
 ]
